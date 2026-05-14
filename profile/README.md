@@ -1,3 +1,3 @@
-<img src="../media/Avenx-Banner.png" alt="Avenx.js Banner">
+<img src="../media/avenx-js-header.jpeg" alt="Avenx.js Banner">
 
 # Avenx.js
