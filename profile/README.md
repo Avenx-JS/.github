@@ -1,12 +1,16 @@
+<div align="center">
+
 <img src="../media/avenx-js-header.jpeg" alt="Avenx.js Banner">
 
-# Avenx.js
+<br>
 
-## The lightweight, zero-dependency reactive frontend framework.
+# 🐙 Avenx.js
 
-Build modern web applications with a compiler-driven architecture, Proxy-powered reactivity, scoped styles, and first-class developer tooling — without the runtime overhead.
+### *The lightweight, zero-dependency reactive frontend framework.*
 
-<div align="center">
+Build modern web applications with a compiler-driven architecture, Proxy-powered reactivity, scoped styles, and first-class developer tooling — **without the runtime overhead.**
+
+<br>
 
 🌐 [**Website**](https://avenx-js.com) &nbsp;•&nbsp;
 📚 [**Docs**](https://docs.avenx-js.com) &nbsp;•&nbsp;
@@ -18,39 +22,109 @@ Build modern web applications with a compiler-driven architecture, Proxy-powered
 
 </div>
 
+<br>
+
 ---
+
+<br>
+
+<div align="center">
 
 ## ✨ Why Avenx.js?
 
-Avenx.js is built around a simple idea:
+</div>
 
 > **Frontend development should be powerful without being unnecessarily complex.**
 
-Instead of relying on a large client-side runtime, Avenx.js moves as much work as possible into the compiler.
+Avenx.js is built around a simple idea. Instead of relying on a large client-side runtime, it moves as much work as possible into the compiler — so your users' browsers do less, and your app does more.
 
-| **Feature** | **Description** |
-|---|---|
-| ⚡ **Lightweight** | Minimal runtime with zero production dependencies |
-| 🧠 **Reactive by design** | Proxy-driven state management with automatic updates |
-| 🎨 **Scoped CSS** | Component styles stay isolated without extra libraries |
-| 🛠️ **Built-in CLI** | Generate, build, serve, and manage your application from one CLI |
-| 📦 **Compiler-driven** | More work at build time, less work in the browser |
-| 🧩 **Component-based** | Build applications from small, reusable components |
-| 🔍 **Developer-focused** | Designed with a straightforward and predictable development experience |
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### ⚡
+**Lightweight**
+<br>
+Minimal runtime with zero production dependencies
+
+</td>
+<td align="center" width="33%">
+
+### 🧠
+**Reactive by design**
+<br>
+Proxy-driven state management with automatic updates
+
+</td>
+<td align="center" width="33%">
+
+### 🎨
+**Scoped CSS**
+<br>
+Component styles stay isolated without extra libraries
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🛠️
+**Built-in CLI**
+<br>
+Generate, build, serve, and manage your app from one CLI
+
+</td>
+<td align="center" width="33%">
+
+### 📦
+**Compiler-driven**
+<br>
+More work at build time, less work in the browser
+
+</td>
+<td align="center" width="33%">
+
+### 🧩
+**Component-based**
+<br>
+Build applications from small, reusable components
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+🔍 **Developer-focused** — designed with a straightforward and predictable development experience
+
+</div>
+
+<br>
 
 ---
 
-## 📉 Zero Runtime Dependencies
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📉 Zero Runtime Dependencies
 
 Avenx.js aims to keep the production footprint as small as possible.
 
-- No large dependency tree.
-- No unnecessary runtime abstractions.
-- Just the code your application needs.
+- No large dependency tree
+- No unnecessary runtime abstractions
+- Just the code your application needs
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 Performance
+### 📊 Performance
 
 Performance is a first-class goal of Avenx.js.
 
@@ -58,15 +132,31 @@ We maintain public benchmarks to make the framework's performance transparent an
 
 👉 [Avenx.js Benchmarks](https://benchmarks.avenx-js.com)
 
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
-## 🧪 Code Quality
+<br>
+
+<div align="center">
+
+### 🧪 Code Quality
 
 Avenx.js is continuously tested through automated CI pipelines with code coverage and other quality checks.
 
 👉 [View Code Coverage](https://coverage.avenx-js.com)
 
+</div>
+
+<br>
+
 ---
+
+<br>
 
 ## 🌱 Community
 
@@ -74,7 +164,9 @@ Avenx.js is an open-source, community-driven project.
 
 Whether you want to fix a bug, improve the documentation, propose a feature, or simply experiment with the framework — contributions are welcome.
 
-#### 🤝 Contribute
+<details>
+<summary><b>🤝 How to contribute</b></summary>
+<br>
 
 1. Fork the repository
 2. Create a branch
@@ -86,22 +178,24 @@ Good first issues and help-wanted issues are a great way to get started.
 
 👉 [Explore Issues](https://github.com/Avenx-JS/avenx-js/issues)
 
+</details>
+
+<br>
+
+💬 Have a question, want to share what you're building, or just want to meet other Avenx.js developers?
+
+👉 Join us on [**Discord**](https://discord.avenx-js.com)
+
+<br>
+
 ---
 
-## 💬 Join the Community
-
-Have a question, want to share what you're building, or just want to meet other Avenx.js developers?
-
-Join the community:
-
-💬 [Discord](https://discord.avenx-js.com)
-
----
+<br>
 
 <div align="center">
 
 ## 🚀 Build fast. Stay simple. Ship with Avenx.js.
 
-Made with ❤️ by the Avenx.js community.
+*Made with ❤️ by the Avenx.js community.*
 
 </div>
