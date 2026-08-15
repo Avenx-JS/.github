@@ -26,7 +26,7 @@ Build modern web applications with a compiler-driven architecture, Proxy-powered
 
 ---
 
-<br>
+
 
 <div align="center">
 
@@ -138,17 +138,9 @@ We maintain public benchmarks to make the framework's performance transparent an
 
 <br>
 
----
-
-<br>
-
 <div align="center">
 
-### 🧪 Code Quality
-
-Avenx.js is continuously tested through automated CI pipelines with code coverage and other quality checks.
-
-👉 [View Code Coverage](https://coverage.avenx-js.com)
+🧪 Continuously tested via automated CI — [view code coverage](https://coverage.avenx-js.com)
 
 </div>
 
@@ -156,17 +148,24 @@ Avenx.js is continuously tested through automated CI pipelines with code coverag
 
 ---
 
+
+<div align="center">
+
+# 🌱 Community
+
+*Avenx.js is an open-source, community-driven project.*
+
+</div>
+
+Whether you want to fix a bug, improve the documentation, propose a feature, or simply experiment with the framework — **contributions are welcome.**
+
 <br>
 
-## 🌱 Community
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Avenx.js is an open-source, community-driven project.
-
-Whether you want to fix a bug, improve the documentation, propose a feature, or simply experiment with the framework — contributions are welcome.
-
-<details>
-<summary><b>🤝 How to contribute</b></summary>
-<br>
+### 🤝 Contribute
 
 1. Fork the repository
 2. Create a branch
@@ -178,13 +177,20 @@ Good first issues and help-wanted issues are a great way to get started.
 
 👉 [Explore Issues](https://github.com/Avenx-JS/avenx-js/issues)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<br>
+### 💬 Get Involved
 
-💬 Have a question, want to share what you're building, or just want to meet other Avenx.js developers?
+Have a question, want to share what you're building, or just want to meet other Avenx.js developers?
+
+Join the conversation, show off your projects, and get help directly from the community.
 
 👉 Join us on [**Discord**](https://discord.avenx-js.com)
+
+</td>
+</tr>
+</table>
 
 <br>
 
