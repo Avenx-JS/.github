@@ -6,7 +6,7 @@
 
 Build modern web applications with a compiler-driven architecture, Proxy-powered reactivity, scoped styles, and first-class developer tooling — without the runtime overhead.
 
-<div allign="center">
+<div align="center">
 
 🌐 [**Website**](https://avenx-js.com) &nbsp;•&nbsp;
 📚 [**Docs**](https://docs.avenx-js.com) &nbsp;•&nbsp;
@@ -18,15 +18,17 @@ Build modern web applications with a compiler-driven architecture, Proxy-powered
 
 </div>
 
-## ✨ Why Avenx-JS?
+---
 
-Avenx-JS is built around a simple idea:
+## ✨ Why Avenx.js?
+
+Avenx.js is built around a simple idea:
 
 > **Frontend development should be powerful without being unnecessarily complex.**
 
-Instead of relying on a large client-side runtime, Avenx-JS moves as much work as possible into the compiler.
+Instead of relying on a large client-side runtime, Avenx.js moves as much work as possible into the compiler.
 
-|**Feature** | **Description**|
+| **Feature** | **Description** |
 |---|---|
 | ⚡ **Lightweight** | Minimal runtime with zero production dependencies |
 | 🧠 **Reactive by design** | Proxy-driven state management with automatic updates |
@@ -39,6 +41,7 @@ Instead of relying on a large client-side runtime, Avenx-JS moves as much work a
 ---
 
 ## 📉 Zero Runtime Dependencies
+
 Avenx.js aims to keep the production footprint as small as possible.
 
 - No large dependency tree.
@@ -48,16 +51,18 @@ Avenx.js aims to keep the production footprint as small as possible.
 ---
 
 ## 📊 Performance
+
 Performance is a first-class goal of Avenx.js.
 
 We maintain public benchmarks to make the framework's performance transparent and continuously track changes across releases.
 
 👉 [Avenx.js Benchmarks](https://benchmarks.avenx-js.com)
 
---- 
+---
 
 ## 🧪 Code Quality
-Avenx-JS is continuously tested through automated CI pipelines with code coverage and other quality checks.
+
+Avenx.js is continuously tested through automated CI pipelines with code coverage and other quality checks.
 
 👉 [View Code Coverage](https://coverage.avenx-js.com)
 
@@ -65,7 +70,7 @@ Avenx-JS is continuously tested through automated CI pipelines with code coverag
 
 ## 🌱 Community
 
-Avenx-JS is an open-source, community-driven project.
+Avenx.js is an open-source, community-driven project.
 
 Whether you want to fix a bug, improve the documentation, propose a feature, or simply experiment with the framework — contributions are welcome.
 
@@ -84,7 +89,8 @@ Good first issues and help-wanted issues are a great way to get started.
 ---
 
 ## 💬 Join the Community
-Have a question, want to share what you're building, or just want to meet other Avenx-JS developers?
+
+Have a question, want to share what you're building, or just want to meet other Avenx.js developers?
 
 Join the community:
 
@@ -92,10 +98,10 @@ Join the community:
 
 ---
 
-<div allign="center">
+<div align="center">
 
-## 🚀 Build fast. Stay simple. Ship with Avenx-JS.
+## 🚀 Build fast. Stay simple. Ship with Avenx.js.
 
-Made with ❤️ by the Avenx-JS community.
+Made with ❤️ by the Avenx.js community.
 
 </div>
