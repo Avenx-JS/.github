@@ -192,9 +192,25 @@ Join the conversation, show off your projects, and get help directly from the co
 </tr>
 </table>
 
-<br>
-
 ---
+
+### 🤝 Infrastructure Supporters
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="../media/sentry-wordmark-light-400x88.svg" alt="Sentry">
+
+</td>
+<td width="50%" valign="top">
+
+### Sentry
+
+Sentry supports Avenx.js by providing access to its infrastructure through a sponsored Business plan. ❤️
+</td>
+</tr>
+</table>
 
 <br>
 
