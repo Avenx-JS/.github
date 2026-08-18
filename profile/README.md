@@ -194,7 +194,11 @@ Join the conversation, show off your projects, and get help directly from the co
 
 ---
 
-### 🤝 Infrastructure Supporters
+<div align="center">
+
+# 🤝 Infrastructure Supporters
+
+</div>
 
 <table>
 <tr>
@@ -204,9 +208,6 @@ Join the conversation, show off your projects, and get help directly from the co
 
 </td>
 <td width="50%" valign="top">
-
-### Sentry
-
 Sentry supports Avenx.js by providing access to its infrastructure through a sponsored Business plan. ❤️
 </td>
 </tr>
