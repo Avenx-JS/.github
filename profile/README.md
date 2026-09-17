@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🐙 Avenx.js
 
 ### *The lightweight, zero-dependency reactive frontend framework.*
