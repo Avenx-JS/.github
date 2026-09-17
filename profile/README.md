@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="../media/avenx-js-header.jpeg" alt="Avenx.js Banner">
-
-<br>
-
 # 🐙 Avenx.js
 
 ### *The lightweight, zero-dependency reactive frontend framework.*
